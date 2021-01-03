@@ -1,0 +1,6 @@
+[submodule "lib"]
+	path = lib
+	url = git@github.com:hyperbora/sub1.git
+[submodule "module"]
+	path = module
+	url = git@github.com:hyperbora/sub2.git
